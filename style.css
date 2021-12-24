@@ -35,3 +35,8 @@
     border-top-left-radius: 0;
     border-top-right-radius: 0;
   }
+  .img-thumbnail:hover{
+    transform:scale(1.05);
+    transition: all 0.2s linear;
+    box-shadow: 5px 5px 10px 0px rgb(204, 203, 203);
+  }
